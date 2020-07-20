@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Micon_m5stickc",
+			"path": "C:\\Users\\nijir\\Documents\\PlatformIO\\Projects\\Micon_m5stickc"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.associations": {
+			"chrono": "cpp",
+			"xhash": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"algorithm": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"random": "cpp"
+		}
+	}
+}
